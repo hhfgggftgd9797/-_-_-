@@ -1,0 +1,28 @@
+.qwe{
+
+    width:100%;
+}
+main{
+    height:700PX;
+  background-size:100% auto ;
+   
+  background-image: url(https://cdn.myanimelist.net/s/common/uploaded_files/1570890615-99ce7bf2e3fb68ecaa14edd54d3f805b.jpeg );
+}
+h2{
+    color: blueviolet;
+    font-size:80px ;
+}
+.sss{
+   display: flex;
+
+
+}
+.rrr{
+    width:100%;
+    height:30%;
+
+
+}
+body{
+    min-width: 1200px;
+}
